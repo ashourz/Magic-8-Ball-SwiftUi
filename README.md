@@ -1,18 +1,23 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+# Magic 8 Ball App (SwiftUi)
+App developed as part of The App Brewery's Complete App Development Bootcamp.
 
-# Magic 8 Ball
+# Project Summary
+This project is a magic 8 ball app that cal be used by pressing a button or by shaking your phone. 
 
-## Our Goal
+# Key Concepts
+- Create links between the Interface Builder files and code using IBActions and IBOutlets.
+- Understand and use Swift constants and variables.
+- Understand and use collection types such as Swift arrays.
+- Test and debug your app with the Xcode console.
+- Learn about randomisation and how to generate random numbers in Swift.
+- SwiftUi
 
-The objective of this challenge is to apply the skills you learned in the Dicee tutorial and get you making an app with functionality all by yourself. There’s no new concepts here. But you’re flyin’ solo this time! Most of the programming skills are gained in the challenges rather than the tutorials. It’s when you’re using your new-found programming skills to bend the app to your will that you’re truly levelling up as a developer.
-
-## What you will create
-
-We’re going to make a Magic 8 Ball app. You can ask the app to make all your hard decisions! With this app in your pocket, you’ll always have an answer to life’s many conundrums!
-
-
-
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
-
+# Screenshots
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/3babb84f-ce94-4d8c-a55f-74ae4b072b9e" width="160" /> 
+  <img src="https://github.com/user-attachments/assets/9cda7e98-a939-4817-b9d3-86d5925487c9" width="160" /> 
+  <img src="https://github.com/user-attachments/assets/513763fe-73e9-460a-99b8-459237600031" width="160" /> 
+  <img src="https://github.com/user-attachments/assets/718d3834-b19d-44e2-a334-5e811b7b6b17" width="160" /> 
+  <img src="https://github.com/user-attachments/assets/841730de-1b4c-4853-86e8-0946694c42d6" width="160" /> 
+  <img src="https://github.com/user-attachments/assets/46ce2087-be1d-4fdb-9aa7-e52bbbb91a5d" width="160" /> 
+</p>
